@@ -1,0 +1,18 @@
+LUCB_Heuristic_greedy
+* Not terminated runs:
+0
+* Average runtime (in sec.):
+0H 0 min 20.317649921417235 sec (20.318 sec.)
+* Empirical recommendation:
+[0. 0. 1. 1. 0. 1. 0. 1. 1. 0.]
+* Arm drawing frequency:
+[0.07346 0.11739 0.0841  0.05025 0.07111 0.16158 0.14517 0.06368 0.07191
+ 0.16135]
+Average runtime (sec.) = 20.31765
+Average sample number = 15005.688
+Std. in sample number = 305.406
+Expected sample complexity (UGapE) = O(803921)
+Oracle = [0.3817798907966353, 0.3825958148918035, 0.39273916434433914, 0.396771600150302, 0.39855619718580004, 0.4650079878486893, 0.4779776124997984, 0.4817360532494404, 0.4848804326955444, 0.4914991195233917]
+Gap best arms/worst arms (mu_{m} - mu_{m+1}) = 0.06645
+Success frequency = 1.0: {0.0 <= 0.05} = True
+#simulations = 500

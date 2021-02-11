@@ -1,0 +1,17 @@
+LUCB_LUCB1_greedy
+* Not terminated runs:
+0
+* Average runtime (in sec.):
+0H 0 min 0 sec (0.566 sec.)
+* Empirical recommendation:
+[0. 0. 1. 1.]
+* Arm drawing frequency:
+[0.03991 0.34726 0.30463 0.3082 ]
+Average runtime (sec.) = 0.56551
+Average sample number = 737.482
+Std. in sample number = 140.195
+Expected sample complexity (UGapE) = O(119)
+Oracle = [0.0, 0.5000000000000001, 1.0, 1.0]
+Gap best arms/worst arms (mu_{m} - mu_{m+1}) = 0.5
+Success frequency = 1.0: {0.0 <= 0.05} = True
+#simulations = 500

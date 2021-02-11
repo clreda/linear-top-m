@@ -1,0 +1,19 @@
+LinGame_Heuristic
+* Not terminated runs:
+0
+* Average runtime (in sec.):
+0H 0 min 10.181772476196288 sec (10.182 sec.)
+* Empirical recommendation:
+[0. 0. 1.]
+* Arm drawing frequency:
+[0.58247 0.00286 0.41468]
+-- Distance to true theta
+1.00385
+Average runtime (sec.) = 10.18177
+Average sample number = 7138.32
+Std. in sample number = 2459.993
+Expected sample complexity (UGapE) = O(2400914)
+Oracle = [0.0, 0.9950041652780258, 1.0]
+Gap best arms/worst arms (mu_{m} - mu_{m+1}) = 0.005
+Success frequency = 1.0: {0.0 <= 0.05} = True
+#simulations = 500

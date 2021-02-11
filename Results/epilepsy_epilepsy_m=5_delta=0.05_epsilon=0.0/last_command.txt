@@ -1,0 +1,1 @@
+python main.py --small_K 10 --beta Heuristic --data epilepsy --sigma 0.5 --bandit LUCB --is_greedy 0 --m 5 --n_simu 500 --epsilon 0. --delta 0.05 --json_file ../args_latex.json

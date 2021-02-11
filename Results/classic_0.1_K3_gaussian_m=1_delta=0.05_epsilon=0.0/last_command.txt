@@ -1,0 +1,1 @@
+python main.py --small_K 3 --beta LUCB1 --data classic --omega 0.1 --sigma 0.5 --bandit LUCB --is_greedy 0 --m 1 --n_simu 500 --epsilon 0. --delta 0.05 --json_file ../args_latex.json

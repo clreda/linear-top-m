@@ -1,0 +1,1 @@
+python main.py --small_K 10 --small_N 5 --beta Heuristic --data linear --vr 0.5 --sigma 0.5 --bandit LinGIFA --is_greedy 0 --m 8 --n_simu 500 --epsilon 0. --delta 0.05 --json_file ../args_latex.json

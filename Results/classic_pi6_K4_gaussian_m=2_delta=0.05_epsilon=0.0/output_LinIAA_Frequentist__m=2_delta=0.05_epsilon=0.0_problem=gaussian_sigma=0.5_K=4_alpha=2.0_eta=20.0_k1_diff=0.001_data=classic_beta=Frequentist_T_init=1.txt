@@ -1,0 +1,19 @@
+LinIAA_Frequentist
+* Not terminated runs:
+0
+* Average runtime (in sec.):
+0H 0 min 39.1754311003685 sec (39.175 sec.)
+* Empirical recommendation:
+[0. 0. 1. 1.]
+* Arm drawing frequency:
+[0.00038 0.36463 0.31815 0.31683]
+-- Distance to true theta
+1.42328
+Average runtime (sec.) = 39.17543
+Average sample number = 8915.65
+Std. in sample number = 1560.81
+Expected sample complexity (UGapE) = O(1910)
+Oracle = [0.0, 0.8660254037844387, 1.0, 1.0]
+Gap best arms/worst arms (mu_{m} - mu_{m+1}) = 0.13397
+Success frequency = 1.0: {0.0 <= 0.05} = True
+#simulations = 500

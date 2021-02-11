@@ -1,0 +1,1 @@
+{"mode": "small_test", "n_simu": 1000, "delta": 0.05, "epsilon": 0.0, "sigma": 0.5, "alpha": 2.0, "eta": 20.0, "problem": "gaussian", "T_init": 1, "plot_step": 1000, "k1_diff": 0.001, "is_greedy": 0, "path_to_grn": "../expansion-network/examples/models/epilepsy/", "grn_name": "GRN/report_model1_solution.net", "beta": "Heuristic", "use_chernoff": "none"}

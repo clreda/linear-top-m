@@ -1,0 +1,2 @@
+gap,hardness
+0.5,119

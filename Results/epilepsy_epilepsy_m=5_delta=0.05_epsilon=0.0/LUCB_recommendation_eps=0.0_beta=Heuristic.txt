@@ -1,0 +1,8 @@
+-- Names of the first 5 most recommended items across all 500 simulations:
+['Topiramate', 'Diazepam', 'Pentobarbital', 'Acetazolamide', 'Hydroxyzine']
+-- Associated (empirical) scores:
+[0.46509, 0.48485, 0.48177, 0.49151, 0.47798]
+-- Names of the first 5 'truly good' items:
+['Hydroxyzine', 'Acetazolamide', 'Pentobarbital', 'Topiramate', 'Diazepam']
+-- Associated (true) scores:
+[0.4915, 0.48488, 0.48174, 0.47798, 0.46501]

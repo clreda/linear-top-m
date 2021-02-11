@@ -1,0 +1,20 @@
+LinGapE_Heuristic_optimized
+* Not terminated runs:
+0
+* Average runtime (in sec.):
+0H 0 min 36.6051996383667 sec (36.605 sec.)
+* Empirical recommendation:
+[1.    1.    1.    1.    0.988 0.998 0.002 0.012 1.    1.   ]
+* Arm drawing frequency:
+[1.6000e-03 1.6530e-02 5.9820e-02 9.0000e-05 4.1045e-01 4.1900e-03
+ 6.8700e-02 4.1186e-01 2.3730e-02 3.0100e-03]
+-- Distance to true theta
+2.14484
+Average runtime (sec.) = 36.6052
+Average sample number = 11094.532
+Std. in sample number = 6741.893
+Expected sample complexity (UGapE) = O(202676)
+Oracle = [-0.2033910008222999, -0.18218843451273684, -0.15324524696351874, -0.12808546287042777, -0.1147641729701034, -0.027321912990044404, -0.01590106106811226, 0.059557392884837135, 0.18764220001502016, 0.3347164835233111]
+Gap best arms/worst arms (mu_{m} - mu_{m+1}) = 0.02894
+Success frequency = 0.986: {0.014 <= 0.05} = True
+#simulations = 500

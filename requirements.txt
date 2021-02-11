@@ -1,0 +1,12 @@
+matplotlib==2.2.2
+ipython==7.16.1
+ipython-genutils==0.2.0
+pyyaml
+numpy==1.14.3
+pandas==0.23.0
+scipy==1.1.0
+scikit-learn==0.20.4
+seaborn==0.9.0
+cmapPy==3.0.0
+z3-solver==4.8.7.0
+pybiomart==0.2.0

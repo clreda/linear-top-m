@@ -1,0 +1,1 @@
+python main.py --small_K 4 --beta Frequentist --data classic --omega pi/6 --sigma 0.5 --bandit LinGIFAPlus --is_greedy 1 --m 2 --n_simu 500 --epsilon 0. --delta 0.05 --json_file ../args_latex.json
